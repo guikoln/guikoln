@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, I'm Guilherme Kölndorfer👋 
+
+I'm a student of Systems Analysis and Development
 
 <!--
 **guikoln/guikoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
