@@ -14,6 +14,13 @@
   <img align="center" alt="icone-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
+<!--
+<br><br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guikoln&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikoln&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+-->
+
 ##
 
 <div style="display: inline_block"><br>
@@ -29,13 +36,6 @@
 
 
 <!--
-
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guikoln&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guikoln&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<br><br>
-
-
 **guikoln/guikoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
