@@ -1,8 +1,10 @@
-## Hello, I'm Guilherme Kölndorfer👋 
+## Olá, sou o Guilherme Kölndorfer👋 
 
 <br>
 
-- 📚 I'm a student of Systems Analysis and Development
+- 📚 Estou cursando análise e desenvolvimento de sistemas.
+
+- 🌱 Estudo java e outras linguagens na Alura. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icone-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
